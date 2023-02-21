@@ -13,13 +13,14 @@ Modules:
       Librosa
       Sklearn
       Soundfile
-      Mathplotlib
+      Matplotlib
       Numpy
       Pickle
       Glob
       Os
       Pyaudio
       STREAMLIT
+      scipy
 
 ALGORITHM USED:
        MLP Classifier
