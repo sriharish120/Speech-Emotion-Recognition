@@ -28,4 +28,9 @@ EXTRACTED FEATURES:
        MFCC
        MEL SPECTROMETER
        TONNETZ
+       CONTRAST
+       CHROMA
        
+SOURCE FILE DESCRIPTION:
+       ML.py is the backend.
+       front.py is the frontend.
