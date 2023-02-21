@@ -20,3 +20,12 @@ Modules:
       Os
       Pyaudio
       STREAMLIT
+
+ALGORITHM USED:
+       MLP Classifier
+
+EXTRACTED FEATURES:
+       MFCC
+       MEL SPECTROMETER
+       TONNETZ
+       
